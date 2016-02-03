@@ -1,0 +1,279 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 662
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 30
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 16
+	Country: Uruguay ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 25
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Hungary ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-09 ; Times: 5
+	Date: 2015-12-03 ; Times: 6
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-16 ; Times: 31
+	Date: 2015-12-04 ; Times: 6
+	Date: 2015-12-21 ; Times: 9
+	Date: 2015-12-20 ; Times: 6
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 2
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-29 ; Times: 5
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-11 ; Times: 8
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-19 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus arctos syriacus" ; Times: 1
+	Query: "Nesokia indica iran" ; Times: 1
+	Query: "myotis tricolor" ; Times: 1
+	Query: "Genetta genetta" ; Times: 2
+	Query: "Calomyscus bailwardi iran" ; Times: 1
+	Query: "crocidura iran" ; Times: 1
+	Query: "Lemur catta" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "order:Carnivora country:&#34;Ethiopia&#34;" ; Times: 2
+	Query: "tapir" ; Times: 2
+	Query: "Amorphochilus schnablii" ; Times: 3
+	Query: "Apodemus flavicollis iran" ; Times: 1
+	Query: "Crocidura zarudnyi iran" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 4
+	Query: "Hypsugo savii iran" ; Times: 1
+	Query: "Meriones crassus iran" ; Times: 2
+	Query: "iran mammals" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "felidae" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Equus hemionus iran" ; Times: 1
+	Query: "order:rodentia country:Senegal" ; Times: 2
+	Query: "Platacanthomyidae Calomyscus iran" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "Rhombomys opimus iran" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 1
+	Query: "arctictis binturong" ; Times: 1
+	Query: "MHNG 261.094" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 2
+	Query: "dendromus mesomelas" ; Times: 4
+	Query: "Mesocricetus brandti iran" ; Times: 1
+	Query: "alouatta pigra" ; Times: 24
+	Query: "Panthera onca Brazil" ; Times: 1
+	Query: "Meriones persicus iran" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 2
+	Query: "lepus europaeus" ; Times: 2
+	Query: "Ochotona rufescens iran" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "genus:Potamogale" ; Times: 1
+	Query: "equus hemionus onager" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Capromys" ; Times: 1
+	Query: "onager iran" ; Times: 1
+	Query: "Nyctalus noctula iran" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Cricetulus migratorius iran" ; Times: 1
+	Query: "specificepithet:colocolo family:Felidae" ; Times: 1
+	Query: "primates" ; Times: 1
+	Query: "order:Carnivora country:&#34;Kenya&#34; mappable:1" ; Times: 1
+	Query: "Hemiechinus auritus iran" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 2
+	Query: "gazella rufina" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "suncus iran" ; Times: 1
+	Query: "Rhinolophus hipposideros iran" ; Times: 1
+	Query: "tremarctos ornatus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "didelphis albiventris paraguay" ; Times: 1
+	Query: "asellia tridens iran" ; Times: 1
+	Query: "Rhinolophus blasii iran" ; Times: 1
+	Query: "Rhinopoma microphyllum iran" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "cebus albifrons" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "&#34;manis crassicaudata&#34;" ; Times: 1
+	Query: "Mastomys" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "homo sapiens" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 144 (out of 889 download events in this period)
+Total number of records downloaded: 10970
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 28
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 100
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-21 ; Times: 5
+	Date: 2015-12-20 ; Times: 8
+	Date: 2015-12-23 ; Times: 11
+	Date: 2015-12-25 ; Times: 26
+	Date: 2015-12-24 ; Times: 15
+	Date: 2015-12-27 ; Times: 8
+	Date: 2015-12-26 ; Times: 10
+	Date: 2015-12-29 ; Times: 4
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-16 ; Times: 8
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 4
+	Date: 2015-12-13 ; Times: 5
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Nesokia indica iran" ; Times: 1
+	Query: "specificepithet:canadensis genus:Lontra" ; Times: 1
+	Query: "specificepithet:douglasii genus:Tamiasciurus" ; Times: 2
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris" ; Times: 1
+	Query: "Ochotona rufescens iran" ; Times: 3
+	Query: "Mesocricetus brandti iran" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "suncus iran" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 1
+	Query: "Gerbillus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "ursus arctos syriacus" ; Times: 3
+	Query: "specificepithet:orarius genus:Scapanus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 2
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:leucogaster genus:Onychomys" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus" ; Times: 1
+	Query: "Tadarida teniotis iran" ; Times: 1
+	Query: "iran mammals" ; Times: 1
+	Query: "specificepithet:californicus genus:Myotis" ; Times: 2
+	Query: "specificepithet:colocolo family:Felidae" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis" ; Times: 2
+	Query: "Rhinopoma microphyllum iran" ; Times: 1
+	Query: "Pipistrellus kuhlii iran" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "carollia" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 2
+	Query: "Nyctalus noctula iran" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Myotis blythii iran" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "carollia castanea" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 3
+	Query: "Meriones crassus iran" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Calomyscus bailwardi iran" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "specificepithet:pajeros family:Felidae" ; Times: 1
+	Query: "Rhinolophus hipposideros iran" ; Times: 1
+	Query: "tremarctos ornatus country:&#34;ecuador&#34;" ; Times: 2
+	Query: "class:Mammalia" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 2
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Microtus" ; Times: 2
+	Query: "aethomys" ; Times: 1
+	Query: "Rhinolophus blasii iran" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex" ; Times: 1
+	Query: "specificepithet:mexicana genus:Choeronycteris" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Equus hemionus iran" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus" ; Times: 1
+	Query: "Platacanthomyidae Calomyscus iran" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Nyctomys" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Cricetulus migratorius iran" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "equus hemionus onager" ; Times: 4
+	Query: "nasua narica" ; Times: 1
+	Query: "Myotis iran" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:oregoni genus:Microtus" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+
+
+End of report.
