@@ -1,0 +1,226 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 902
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Bangladesh ; Times: 2
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 7
+	Country: France ; Times: 2
+	Country: United States ; Times: 39
+	Country: Guatemala ; Times: 7
+	Country: Peru ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Spain ; Times: 1
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-27 ; Times: 15
+	Date: 2015-10-24 ; Times: 9
+	Date: 2015-10-29 ; Times: 23
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 7
+	Date: 2015-10-26 ; Times: 8
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "lepus callotis" ; Times: 3
+	Query: "Asellia tridens country:&#34;Morocco&#34; continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Rousettus aegyptiacus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "talpa" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Odocoileus virginianus and texas" ; Times: 1
+	Query: "Sciuridae sarawak" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 3
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "mustela putorius" ; Times: 1
+	Query: "Rhinolophus mehelyi country:&#34;Tunisia&#34; continent:Africa" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "sarawak Hominidae" ; Times: 1
+	Query: "Coendou quichua" ; Times: 1
+	Query: "Cebus Villavicencio" ; Times: 2
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "felidae genus:leopardus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Taphozous perforatus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "seniculus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Asellia tridens continent:Africa" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "dama.dama" ; Times: 1
+	Query: "Rhinolophus blasii country:&#34;Morocco&#34; continent:Africa" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Alouatta pigra Guatemala" ; Times: 1
+	Query: "sus verrucosus" ; Times: 2
+	Query: "oryzomys albigularis" ; Times: 2
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "Tremarctos ornatus mappable:1" ; Times: 3
+	Query: "sarawak mammalia" ; Times: 2
+	Query: "Miniopterus schreibersii country:&#34;Algeria&#34; continent:Africa" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 2
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "institutioncode:mhng" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "sarawak Carnivora" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 1
+	Query: "primates" ; Times: 1
+	Query: "Pipistrellus rueppelli continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Rhinolophus hipposideros continent:Africa" ; Times: 1
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "genetta genetta" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "1647" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Genetta" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 4
+	Query: "Myotis emarginatus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Rhinolophus blasii country:&#34;Tunisia&#34; continent:Africa" ; Times: 1
+	Query: "sarawak Erinaceidae" ; Times: 1
+	Query: "Taphozous nudiventris continent:Africa year &gt;= 1960" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 823 download events in this period)
+Total number of records downloaded: 17822
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 30
+	Country: Uganda ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 10
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-30 ; Times: 13
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-31 ; Times: 7
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "Meriones shawi" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+
+
+End of report.
