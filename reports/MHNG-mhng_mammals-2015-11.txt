@@ -1,0 +1,172 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 663
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: South Korea ; Times: 6
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-18 ; Times: 5
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 12
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-27 ; Times: 10
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gorilla genus:gorilla" ; Times: 3
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "genus:Limnogale" ; Times: 1
+	Query: "Crocidura lasiura" ; Times: 3
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "Monodelphis" ; Times: 1
+	Query: "conepatus chinga" ; Times: 2
+	Query: "callithrix jacchus" ; Times: 4
+	Query: "baluensis" ; Times: 1
+	Query: "microryzomys minutus" ; Times: 1
+	Query: "connochaetes" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 5
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "herpestes ichneumon" ; Times: 1
+	Query: "genus:Nasua country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "silvatica" ; Times: 1
+	Query: "Pteronotus" ; Times: 1
+	Query: "marmota" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "mus castaneus" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Callicebus" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 1
+	Query: "rattus norvegicus country:&#34;Spain&#34;" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "1491" ; Times: 1
+	Query: "Capromys" ; Times: 1
+	Query: "MAM 300" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Tragelaphus" ; Times: 1
+	Query: "Apodemus" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "genus:Bradypus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "Brachyphylla" ; Times: 1
+	Query: "HYRACOIDEA" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "TUBULIDENTATA" ; Times: 1
+	Query: "PRIMATES" ; Times: 1
+	Query: "PHOLIDOTA" ; Times: 1
+	Query: "Microcebus" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 1
+	Query: "sturnira ludovici month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "ERINACEOMORPHA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 751 download events in this period)
+Total number of records downloaded: 61486
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 30
+	Country: Belgium ; Times: 2
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-01 ; Times: 6
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-17 ; Times: 7
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "Crocidura lasiura" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Bradypus" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Microtus californicus" ; Times: 1
+	Query: "meriones libycus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "herpestes ichneumon" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "procyon lotor" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "neovison vison" ; Times: 3
+	Query: "Myocastor" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "class:Mammalia" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
