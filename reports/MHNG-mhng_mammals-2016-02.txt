@@ -1,0 +1,232 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 1648
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Madagascar ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 66
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Switzerland ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 7
+	Date: 2016-02-18 ; Times: 9
+	Date: 2016-02-19 ; Times: 13
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 5
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 7
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 6
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 5
+	Date: 2016-02-03 ; Times: 17
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 6
+	Date: 2016-02-04 ; Times: 22
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "indri" ; Times: 2
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "kakamega chiroptera" ; Times: 2
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Sus scrofa scrofa" ; Times: 1
+	Query: "ochotona iran" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 6
+	Query: "saguinus labiatus" ; Times: 2
+	Query: "galictis vittata" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 1
+	Query: "Suncus etruscus iran" ; Times: 1
+	Query: "felis catus type:specimen" ; Times: 2
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "Asellia iran" ; Times: 1
+	Query: "suricata" ; Times: 3
+	Query: "phylloderma" ; Times: 4
+	Query: "idiurus" ; Times: 1
+	Query: "Colombia+Saccopteryx" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "cricetulus iran" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tlacuatzin" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "sus" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "Martes" ; Times: 1
+	Query: "Neofelis nebulosa mappable:1" ; Times: 1
+	Query: "vulpes corsac" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "callicebus" ; Times: 1
+	Query: "genus:inia" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "austria" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 3
+	Query: "eptesicus iran" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "anomaluridae" ; Times: 3
+	Query: "indri indri" ; Times: 3
+	Query: "france" ; Times: 1
+	Query: "nyctalus iran" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "barbastella" ; Times: 1
+	Query: "&#34; Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "myotis mhng" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen" ; Times: 1
+	Query: "martes" ; Times: 1
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "calomyscus iran" ; Times: 1
+	Query: "mus domesticus" ; Times: 2
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "rhinolophus iran" ; Times: 1
+	Query: "mus iran" ; Times: 1
+	Query: "Sus" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Anomaluridae" ; Times: 1
+	Query: "mammals coahuila" ; Times: 1
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "castor" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "hypsugo savii iran" ; Times: 1
+	Query: "Asellia tridens iran" ; Times: 1
+	Query: "gbifdatasetid:5a659248-1f70-11e3-b2c5-00145eb45e9a" ; Times: 2
+	Query: "ruwenzorii" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "panthera pardus" ; Times: 2
+	Query: "Borneo Rodentia" ; Times: 1
+	Query: "plecotus auritus switzerland" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 512 download events in this period)
+Total number of records downloaded: 2976
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-12 ; Times: 6
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-21 ; Times: 5
+	Date: 2016-02-04 ; Times: 29
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-05 ; Times: 4
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "ototylomys" ; Times: 1
+	Query: "tatera iran" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 2
+	Query: "Eira" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 5
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "mesocricetus iran" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "meriones iran" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "pipistrellus iran" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "saguinus midas" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Soricidae (Colombia) mappable:1" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
