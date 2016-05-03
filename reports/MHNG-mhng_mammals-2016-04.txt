@@ -1,0 +1,224 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 1252
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Brazil ; Times: 5
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 14
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 62
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 28
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-02 ; Times: 4
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 16
+	Date: 2016-04-23 ; Times: 3
+	Date: 2016-04-22 ; Times: 18
+	Date: 2016-04-25 ; Times: 11
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-27 ; Times: 8
+	Date: 2016-04-26 ; Times: 9
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-18 ; Times: 11
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 17
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-12 ; Times: 4
+	Date: 2016-04-13 ; Times: 10
+	Date: 2016-04-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:MHNG-MAM-1007.024" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Suidae" ; Times: 1
+	Query: "type:specimen (alouatta)" ; Times: 2
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 3
+	Query: "specificepithet:couesi genus:oryzomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "MHNG Mammals MHNG-MAM-1750.013" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "sphiggurus" ; Times: 7
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "coendou" ; Times: 9
+	Query: "	Echimys blainvillei	" ; Times: 1
+	Query: "primates" ; Times: 1
+	Query: "puma concolor country:&#34;paraguay&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "E. Indes" ; Times: 1
+	Query: "Herpestes" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "Phloeomys cumingi" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "echinoprocta" ; Times: 4
+	Query: "Marmota" ; Times: 4
+	Query: "specificepithet:genetta genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "Conilurus penicillatus" ; Times: 1
+	Query: "COENDOU" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "crocidura monticola malaysia" ; Times: 1
+	Query: "crocidura malayana malaysia" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "mammals coahuila CUATRO CIENEGAS" ; Times: 1
+	Query: "specificepithet:GENETTA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "PRIMATES" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "Myotis lucifugus Ontario" ; Times: 10
+	Query: "chaetomys" ; Times: 4
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "mammals coahuila cuatro cienegas" ; Times: 1
+	Query: "lutra lutra" ; Times: 4
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "Galictis vittata" ; Times: 3
+	Query: "Anomalurus beecrofti" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Nigeria class:Mammalia" ; Times: 1
+	Query: "type:specimen genus:Prionodon order:Carnivora" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 6
+	Query: "Micromys minutus" ; Times: 2
+	Query: "crocidura fuliginosa" ; Times: 1
+	Query: "crocidura fuliginosa malaysia" ; Times: 1
+	Query: "Pogonomys" ; Times: 1
+	Query: "Aotus azarae" ; Times: 5
+	Query: "mus domesticus" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "genus:sus" ; Times: 2
+	Query: "specificepithet:hyaena genus:hyaena order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Leptonycteris (Chiapas)" ; Times: 7
+	Query: "Crocidura fuliginosa malaysia" ; Times: 1
+	Query: "noctilio paraguay" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "griselda" ; Times: 1
+	Query: "promops+centralis" ; Times: 1
+	Query: "suncus murinus malaysia" ; Times: 1
+	Query: "crocidura" ; Times: 1
+	Query: "MHNG-MAM-800.040" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "desmana" ; Times: 2
+	Query: "erinaceidae" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "genus:proechimys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "daubentonia madagascariensis mappable:1" ; Times: 1
+	Query: "eumops hansae" ; Times: 2
+	Query: "ammotragus" ; Times: 2
+	Query: "galemys" ; Times: 3
+	Query: "tupaia horsfield" ; Times: 1
+	Query: "panthera pardus" ; Times: 3
+	Query: "gorilla" ; Times: 3
+	Query: "Bison bonasus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Puma concolor country:&#34;paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1312 download events in this period)
+Total number of records downloaded: 96328
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 70
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-23 ; Times: 11
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-25 ; Times: 8
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-08 ; Times: 5
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-16 ; Times: 8
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-13 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "chaetomys" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "class:Mammalia" ; Times: 12
+
+
+End of report.
