@@ -1,0 +1,148 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 660
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 19
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 8
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 11
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 6
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 5
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 12
+	Query: "meles meles" ; Times: 4
+	Query: "specificepithet:striatus genus:Tamias institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias institutioncode:MHNG" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "echinoprocta" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "Martes melampus" ; Times: 2
+	Query: "Marmota marmota" ; Times: 2
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "Marmota+marmota subsp. marmota" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "Micoureus demerarae" ; Times: 4
+	Query: "Marmota bobak" ; Times: 1
+	Query: "sphiggurus" ; Times: 2
+	Query: "petaurista philippensis" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "primates" ; Times: 2
+	Query: "departamento de guatemala" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "bovidae" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Tamias institutioncode:MHNG" ; Times: 1
+	Query: "genus:Tamias institutioncode:MHNG" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "Hippopotamus lemerlei" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "Rata" ; Times: 1
+	Query: "Tylomys mirae" ; Times: 2
+	Query: "Vampyrum" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 327 download events in this period)
+Total number of records downloaded: 2409
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 22
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Marmota marmota subsp. marmota" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+
+End of report.
