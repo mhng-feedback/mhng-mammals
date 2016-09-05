@@ -1,0 +1,209 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1542
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 64
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 54
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 8
+	Date: 2016-08-11 ; Times: 17
+	Date: 2016-08-12 ; Times: 6
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-15 ; Times: 8
+	Date: 2016-08-16 ; Times: 7
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 15
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 8
+	Date: 2016-08-30 ; Times: 40
+	Date: 2016-08-31 ; Times: 22
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-14 ; Times: 7
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "Melogale moschata" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 2
+	Query: "typhlomys" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "eulemur" ; Times: 3
+	Query: "catopuma temminckii" ; Times: 2
+	Query: "Hemitragus" ; Times: 1
+	Query: "Myotis brandtii" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 4
+	Query: "prionailurus bengalensis" ; Times: 1
+	Query: "cercocebus" ; Times: 2
+	Query: "sus scrofa" ; Times: 4
+	Query: "herpestes edwardsi" ; Times: 1
+	Query: "melogale" ; Times: 1
+	Query: "cebus libidinosus" ; Times: 3
+	Query: "felis chaus" ; Times: 2
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "mustela putorius" ; Times: 2
+	Query: "felis silvestris" ; Times: 1
+	Query: "specificepithet:cubanus genus:Solenodon" ; Times: 10
+	Query: "specificepithet:pardina genus:Genetta" ; Times: 1
+	Query: "arctictis binturong" ; Times: 1
+	Query: "Maxomys surifer mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Herpestes" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 3
+	Query: "uncia uncia" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "martes flavigula" ; Times: 2
+	Query: "Cerdocyon thous brazil" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 5
+	Query: "herpestes fuscus" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "bradypus" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Myotis ruber" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 3
+	Query: "mustela" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "cervus canadensis year &gt;= 1939 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Hyemoschus aquaticus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Aepyceros" ; Times: 4
+	Query: "Tapirus pinchaque" ; Times: 17
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "sibiricus" ; Times: 1
+	Query: "akodon varius" ; Times: 2
+	Query: "Choloepus" ; Times: 1
+	Query: "oxymycterus rufus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "felis manul" ; Times: 1
+	Query: "Conepatus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "neofelis nebulosa" ; Times: 1
+	Query: "arctogalidia trivirgata" ; Times: 1
+	Query: "burkina faso" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "gavia" ; Times: 3
+	Query: "lEOPARDUS WIEDII" ; Times: 2
+	Query: "panthera tigris" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "heliosciurus" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "lutra" ; Times: 1
+	Query: "Moschiola" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Myotis levis" ; Times: 4
+	Query: "herpestes brachyurus" ; Times: 1
+	Query: "Russula" ; Times: 1
+	Query: "caracal caracal" ; Times: 2
+	Query: "echimyidae" ; Times: 1
+	Query: "specificepithet:volans genus:Cynocephalus" ; Times: 1
+	Query: "cynogale bennettii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 924 download events in this period)
+Total number of records downloaded: 1954
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 6
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-25 ; Times: 13
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Myotis brandtii" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "catopuma temminckii" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "cebus libidinosus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:pardina genus:Genetta" ; Times: 1
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Maxomys surifer mappable:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:Herpestes" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Peru&#34;" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 4
+	Query: "lutra" ; Times: 1
+	Query: "eulemur" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+
+
+End of report.
