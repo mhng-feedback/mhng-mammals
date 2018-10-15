@@ -1,0 +1,183 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1339
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 35
+	Country: France ; Times: 6
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 8
+	Country: Colombia ; Times: 3
+	Country: Gambia ; Times: 3
+	Country: Paraguay ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Denmark ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 3
+	Date: 2017-12-31 ; Times: 16
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-18 ; Times: 5
+	Date: 2017-12-19 ; Times: 9
+	Date: 2017-12-27 ; Times: 2
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 3
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 19
+	Date: 2017-12-04 ; Times: 22
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 19
+	Date: 2017-12-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;angola&#34; year &gt;= 1905 year &lt;= 1906 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eira barbara" ; Times: 2
+	Query: "genus:Micoureus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Tapirus pinchaque mappable:1" ; Times: 2
+	Query: "bos grunniens" ; Times: 2
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "The Gambia" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Tapirus terrestris spegazzinii" ; Times: 1
+	Query: "myotis dinellii" ; Times: 2
+	Query: "genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 3
+	Query: "Galictis vittata" ; Times: 1
+	Query: "monodelphis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "genus:hyaena country:&#34;kenya&#34; institutioncode:MHNG" ; Times: 1
+	Query: "sus scrofa" ; Times: 7
+	Query: "ibex" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena country:&#34;kenya&#34; institutioncode:MHNG" ; Times: 1
+	Query: "genus:Euryzygomatomys country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 10
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Chiropotes satanas" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "trichys" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "order:Pilosa country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "suidae" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "specificepithet:gymnonotus genus:Pteronotus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Canis continent:Asia" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "djibouti" ; Times: 1
+	Query: "panthera tigris" ; Times: 8
+	Query: "Homo" ; Times: 2
+	Query: "Myotis levis" ; Times: 6
+	Query: "Zaedyus pichiy" ; Times: 14
+	Query: "genus:Kannabateomys" ; Times: 1
+	Query: "mungo mungos" ; Times: 2
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 674 download events in this period)
+Total number of records downloaded: 1333
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-26 ; Times: 12
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus callotis" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "class:Mammalia country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "genus:Kannabateomys" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
