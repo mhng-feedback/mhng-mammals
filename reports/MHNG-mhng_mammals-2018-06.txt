@@ -1,0 +1,257 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 312
+Number of records retrieved in searches: 1732
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Tunisia ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 10
+	Country: United States ; Times: 187
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Japan ; Times: 12
+	Country: Ecuador ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 9
+	Date: 2018-06-05 ; Times: 19
+	Date: 2018-06-04 ; Times: 22
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 8
+	Date: 2018-06-25 ; Times: 42
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 8
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-09 ; Times: 7
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-23 ; Times: 8
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 24
+	Date: 2018-06-12 ; Times: 25
+	Date: 2018-06-13 ; Times: 7
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-15 ; Times: 10
+	Date: 2018-06-16 ; Times: 20
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 15
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 12
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 2
+	Query: "genus:Lemur" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 2
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "sorex minutissimus" ; Times: 5
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 2
+	Query: "genus:euphractus" ; Times: 3
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "MHNG Mammals MHNG-MAM-639.094" ; Times: 1
+	Query: "pudu mephistophiles" ; Times: 2
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "rhinolophus landeri cameroon" ; Times: 2
+	Query: "giraffa" ; Times: 2
+	Query: "Varecia" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "vntype:specimen genus:euphractus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Meles meles" ; Times: 2
+	Query: "Steatomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:Aonyx mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 8
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "MHNG Mammals MHNG-MAM-639.084" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 1
+	Query: "specificepithet:schnablii genus:Amorphochilus" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "Euoticus" ; Times: 1
+	Query: "crocidura poensis" ; Times: 2
+	Query: "genus:neofelis" ; Times: 3
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "Elephantulus rozeti" ; Times: 3
+	Query: "Panthera uncia" ; Times: 1
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; institutioncode:MHNG" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 10
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "Anomalurus derbianus" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "papio anubis" ; Times: 38
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 2
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bahamas&#34;" ; Times: 3
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "MHNG Mammals MHNG-MAM-601.091" ; Times: 1
+	Query: "order:Chiroptera country:&#34;chile&#34;" ; Times: 2
+	Query: "specificepithet:gambianus genus:heliosciurus" ; Times: 4
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "neomys fodiens" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Sorex roboratus" ; Times: 1
+	Query: "Brachyteles" ; Times: 2
+	Query: "specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 8
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "Avahi" ; Times: 2
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 2
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "crocidura fuliginosa" ; Times: 4
+	Query: "Lepus callotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "country:&#34;MEXICO&#34; institutioncode:MHNG" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 3
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "trichechus senegalensis" ; Times: 9
+	Query: "Anomalurus" ; Times: 4
+	Query: "MHNG Mammals MHNG-MAM-1685.065" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 7
+	Query: "specificepithet:affinis genus:Rhinolophus" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 12
+	Query: "caracal" ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 9
+	Query: "specificepithet:rubra genus:Varecia" ; Times: 8
+	Query: "Lichonycteris obscura" ; Times: 2
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "order:CHIROPTERA locality:OAXACA institutioncode:MHNG" ; Times: 1
+	Query: "chiroptera (oaxaca) institutioncode:MHNG" ; Times: 1
+	Query: "tremarctos ornatus ecuador" ; Times: 1
+	Query: "specificepithet:lepida genus:Marmosa" ; Times: 1
+	Query: "Vulpes zerda	 100" ; Times: 3
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 2
+	Query: "Miniopterus minor" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 2
+	Query: "Tayassu pecari" ; Times: 4
+	Query: "Cebus albifrons" ; Times: 17
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1169 download events in this period)
+Total number of records downloaded: 3206
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "papio anubis" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "Lichonycteris obscura" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Mesomys hispidus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Neacomys spinosus" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
