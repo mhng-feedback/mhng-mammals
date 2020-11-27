@@ -1,0 +1,351 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 483
+Number of records retrieved in searches: 2765
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 171
+	Country: Israel ; Times: 6
+	Country: Italy ; Times: 3
+	Country: Peru ; Times: 5
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 244
+	Country: India ; Times: 6
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 4
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 9
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-30 ; Times: 7
+	Date: 2019-11-15 ; Times: 97
+	Date: 2019-11-14 ; Times: 3
+	Date: 2019-11-16 ; Times: 13
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-10 ; Times: 11
+	Date: 2019-11-13 ; Times: 7
+	Date: 2019-11-12 ; Times: 50
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-27 ; Times: 16
+	Date: 2019-11-06 ; Times: 30
+	Date: 2019-11-07 ; Times: 32
+	Date: 2019-11-20 ; Times: 7
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-24 ; Times: 6
+	Date: 2019-11-25 ; Times: 9
+	Date: 2019-11-26 ; Times: 6
+	Date: 2019-11-09 ; Times: 11
+	Date: 2019-11-28 ; Times: 7
+	Date: 2019-11-29 ; Times: 22
+	Date: 2019-11-04 ; Times: 19
+	Date: 2019-11-05 ; Times: 18
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-03 ; Times: 65
+	Date: 2019-11-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Marmosops noctivagus" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Holochilus sciureus" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 3
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bos primigenius Taurus" ; Times: 2
+	Query: "Propithecus edwardsi" ; Times: 4
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Nectomys rattus" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "Nasua narica" ; Times: 4
+	Query: "Oecomys auyantepui" ; Times: 1
+	Query: "Ichthyomys hydrobates" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Otonyctomys hatti" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "zenkerella" ; Times: 2
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "Oligoryzomys eliurus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 5
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Marmosa murina" ; Times: 2
+	Query: "thyroptera tricolor" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "Histiotus" ; Times: 3
+	Query: "Marmosa lepida" ; Times: 2
+	Query: "Oligoryzomys chacoensis" ; Times: 1
+	Query: "Spermophilus dauricus" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Neusticomys oyapocki" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "Oxymycterus hispidus" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 2
+	Query: "Proechimys quadruplicatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 6
+	Query: "Funambulus layardi" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+	Query: "genus:pipistrellus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Holochilus brasiliensis" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 5
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Melanomys caliginosus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 31
+	Query: "Neacomys dubosti" ; Times: 1
+	Query: "Pseudoryzomys simplex" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 2
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "Oecomys concolor" ; Times: 2
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "priodontes maximus" ; Times: 4
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Onychogalea fraenata" ; Times: 4
+	Query: "Neacomys paracou" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "Rhipidomys nitela" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "Oligoryzomys fulvescens" ; Times: 2
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 2
+	Query: "Chironectes minimus" ; Times: 4
+	Query: "Caluromys lanatus" ; Times: 3
+	Query: "Scapteromys aquaticus" ; Times: 1
+	Query: "Coendou quichua" ; Times: 3
+	Query: "coypus" ; Times: 1
+	Query: "Isothrix sinnamariensis" ; Times: 1
+	Query: "Chaetomys subspinosus" ; Times: 2
+	Query: "Sciurus pyrrhinus" ; Times: 1
+	Query: "Thrichomys apereoides" ; Times: 1
+	Query: "vntype:specimen genus:Pipistrellus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 2
+	Query: "Funambulus tristriatus" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 3
+	Query: "Graomys griseoflavus" ; Times: 2
+	Query: "Oreamnos americanus" ; Times: 7
+	Query: "specificepithet:derbianus genus:Taurotragus" ; Times: 3
+	Query: "Mysateles prehensilis" ; Times: 1
+	Query: "Philander andersoni" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "Neacomys spinosus" ; Times: 2
+	Query: "Oecomys rex" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Nectomys squamipes" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 2
+	Query: "Taurotragus oryx zimbabwe" ; Times: 1
+	Query: "Propithecus verreauxi" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 2
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "Microryzomys minutus" ; Times: 2
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Dolichotis salinicola" ; Times: 2
+	Query: "Elephas maximus" ; Times: 11
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Makalata didelphoides" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 5
+	Query: "Proechimys brevicauda" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "specificepithet:monax genus:marmota continent:North America year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "Panthera pardus zimbabwe" ; Times: 2
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Leopardus pardalis 1972" ; Times: 4
+	Query: "Akodon varius" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 3
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Leopardus pardalis 1979" ; Times: 4
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Pongo abelii" ; Times: 4
+	Query: "Sigmodontomys alfari" ; Times: 2
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Neusticomys" ; Times: 3
+	Query: "elephas maximus" ; Times: 2
+	Query: "genus:Hydrochoerus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Galea musteloides" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 4
+	Query: "Ratufa macroura" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus ustus " ; Times: 4
+	Query: "tupaia tana" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "capra" ; Times: 1
+	Query: "Taphozous theobaldi" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Gorilla beringei" ; Times: 9
+	Query: "Lepus callotis" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 1
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 1
+	Query: "cyclopes eva" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Mesomys hispidus" ; Times: 2
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "country:Ecuador scientificname:Cerdocyon thous " ; Times: 2
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1992" ; Times: 1
+	Query: "Akodon cursor" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Galea spixii" ; Times: 2
+	Query: "Sciurus ignitus" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 4
+	Query: "Tylomys mirae" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Oecomys superans" ; Times: 2
+	Query: "Herpestes ichneumon" ; Times: 3
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Clethrionomys rufocanus" ; Times: 2
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "country:Ecuador scientificname:Lionycteris spurrelli " ; Times: 1
+	Query: "Rhipidomys couesi" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Eidolon helvum" ; Times: 2
+	Query: "Sigmodon peruanus" ; Times: 2
+	Query: "Oecomys trinitatis" ; Times: 2
+	Query: "Euryzygomatomys spinosus" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "Oxymycterus rufus" ; Times: 1
+	Query: "Petauroides volans" ; Times: 2
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 4
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Funambulus pennantii" ; Times: 1
+	Query: "vntype:specimen genus:pipistrellus country:&#34;kenya&#34;" ; Times: 2
+	Query: "Oligoryzomys microtis" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 6
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "capra spain" ; Times: 5
+	Query: "Kannabateomys amblyonyx" ; Times: 1
+	Query: "Dasyprocta mexicana" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 1
+	Query: "Oecomys paricola" ; Times: 1
+	Query: "Capra ibex" ; Times: 4
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "Coendou bicolor" ; Times: 3
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 3
+	Query: "Reithrodontomys mexicanus" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 3
+	Query: "family:canidae country:&#34;Paraguay&#34;" ; Times: 4
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "Rhipidomys venezuelae" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 4
+	Query: "locality:tabar" ; Times: 3
+	Query: "Oecomys rutilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1367 download events in this period)
+Total number of records downloaded: 2794
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 12
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "priodontes maximus" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Tolypeutes tricinctus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "capra spain" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "family:cricetidae" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "specificepithet:olivaceus genus:Abrothrix" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
