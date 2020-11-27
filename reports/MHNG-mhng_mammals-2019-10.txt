@@ -1,0 +1,300 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 1506
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 69
+	Country: Canada ; Times: 3
+	Country: Ireland ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 8
+	Country: Turkey ; Times: 3
+	Country: Uruguay ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Sri Lanka ; Times: 1
+	Country: Argentina ; Times: 16
+	Country: United States ; Times: 166
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-08 ; Times: 7
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 6
+	Date: 2019-10-03 ; Times: 9
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 36
+	Date: 2019-10-04 ; Times: 63
+	Date: 2019-10-07 ; Times: 12
+	Date: 2019-10-06 ; Times: 6
+	Date: 2019-10-23 ; Times: 5
+	Date: 2019-10-22 ; Times: 9
+	Date: 2019-10-29 ; Times: 46
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-16 ; Times: 6
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 10
+	Date: 2019-10-17 ; Times: 12
+	Date: 2019-10-15 ; Times: 8
+	Date: 2019-10-28 ; Times: 6
+	Date: 2019-10-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Priodontes maximus" ; Times: 4
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 3
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 2
+	Query: "Plecotus" ; Times: 1
+	Query: "Microtus longicaudus 1978" ; Times: 1
+	Query: "Rattus norvegicus 2008" ; Times: 1
+	Query: "Rattus norvegicus 2009" ; Times: 1
+	Query: "Rattus norvegicus 2002" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 15
+	Query: "Rattus norvegicus 1973" ; Times: 1
+	Query: "Rattus norvegicus 1972" ; Times: 1
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Rattus norvegicus 1974" ; Times: 1
+	Query: "Rattus norvegicus 1977" ; Times: 1
+	Query: "Rattus norvegicus 1976" ; Times: 1
+	Query: "Rattus norvegicus 1979" ; Times: 1
+	Query: "Rattus norvegicus 1978" ; Times: 1
+	Query: "lutreolina" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "genus:Eira " ; Times: 1
+	Query: "apodemus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Coendou prehensilis vntype:specimen" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae country:&#34;France&#34;" ; Times: 1
+	Query: "capra hircus" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 46
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "Thylamys velutinus" ; Times: 1
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "Mus musculus 1985" ; Times: 2
+	Query: "Loxodonta" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 2
+	Query: "thylamys velutinus" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "specificepithet:philander genus:caluromys country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "micronycteris brosseti" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "MYOTIS SIMUS" ; Times: 1
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "Mus musculus 1991" ; Times: 2
+	Query: "Mus musculus 1993" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 3
+	Query: "Tolypeutes matacus" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "Thylamys macrurus" ; Times: 1
+	Query: "Rattus norvegicus 2014" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "lonchophylla mordax" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "bassaricyon" ; Times: 2
+	Query: "Onychomys leucogaster 2016" ; Times: 2
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "romana Talpa" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 3
+	Query: "chrotopterus auritus" ; Times: 2
+	Query: "Leopardus pardalis 1972" ; Times: 1
+	Query: "9404" ; Times: 1
+	Query: "Leopardus pardalis 1979" ; Times: 1
+	Query: "Microtus montanus 1978" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 3
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 3
+	Query: "Neotoma cinerea 1980" ; Times: 1
+	Query: "specificepithet:leo genus:panthera" ; Times: 1
+	Query: "Myotis simus" ; Times: 4
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 1
+	Query: "pudu" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Mus musculus 1979" ; Times: 2
+	Query: "Dipodomys ordii 2016" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus ustus " ; Times: 5
+	Query: "Dipodomys ordii 2015" ; Times: 1
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "vicugna" ; Times: 1
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "Mus musculus 1975" ; Times: 2
+	Query: "homo sapiens" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 2
+	Query: "5952" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "balaena australis" ; Times: 1
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 5
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 1
+	Query: "Erinaceus concolor" ; Times: 3
+	Query: "genus:Apodemus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cerdocyon thous " ; Times: 2
+	Query: "Rattus norvegicus 1993" ; Times: 1
+	Query: "Mus musculus 1984" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Rattus norvegicus 1992" ; Times: 1
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 2
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "Rattus norvegicus 1980" ; Times: 1
+	Query: "Rattus norvegicus 1981" ; Times: 1
+	Query: "Rattus norvegicus 1982" ; Times: 1
+	Query: "Rattus norvegicus 1983" ; Times: 1
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "pudu puda" ; Times: 1
+	Query: "Rattus norvegicus 1986" ; Times: 1
+	Query: "Rattus norvegicus 1987" ; Times: 1
+	Query: "Rattus norvegicus 1988" ; Times: 1
+	Query: "Rattus norvegicus 1989" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 2
+	Query: "mazama gouazoubira" ; Times: 1
+	Query: "Panthera tigris altaica Temminck" ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 2
+	Query: "Microtus longicaudus 2016" ; Times: 2
+	Query: "Microtus ochrogaster 2016" ; Times: 2
+	Query: "specificepithet:murina genus:Marmosa" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Pantholops hodgsonii" ; Times: 1
+	Query: "Rattus norvegicus 1985" ; Times: 1
+	Query: "Rattus norvegicus 1999" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "Rattus norvegicus 1996" ; Times: 1
+	Query: "Rattus norvegicus 1995" ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Rattus norvegicus 1990" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "funambulus tristriatus" ; Times: 1
+	Query: "tuberculatus Chalinolobus" ; Times: 2
+	Query: "specificepithet:venaticus family:Canidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1308 download events in this period)
+Total number of records downloaded: 1497
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 14
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 17
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-10 ; Times: 4
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-14 ; Times: 6
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "noctilio albiventris minor" ; Times: 1
+	Query: "Thylamys velutinus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "genus:Sciurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "bassaricyon" ; Times: 2
+	Query: "family:soricidae" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "funambulus" ; Times: 2
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "micronycteris brosseti" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Rattus rattus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Thylamys macrurus" ; Times: 1
+	Query: "Coendou prehensilis vntype:specimen" ; Times: 1
+
+
+End of report.
