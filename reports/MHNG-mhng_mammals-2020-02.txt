@@ -1,0 +1,409 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 560
+Number of records retrieved in searches: 3588
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 6
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: Poland ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 12
+	Country: United States ; Times: 459
+	Country: Morocco ; Times: 3
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 40
+	Date: 2020-02-23 ; Times: 8
+	Date: 2020-02-02 ; Times: 36
+	Date: 2020-02-03 ; Times: 67
+	Date: 2020-02-26 ; Times: 11
+	Date: 2020-02-01 ; Times: 74
+	Date: 2020-02-20 ; Times: 19
+	Date: 2020-02-21 ; Times: 16
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-05 ; Times: 40
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 16
+	Date: 2020-02-28 ; Times: 13
+	Date: 2020-02-29 ; Times: 13
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-10 ; Times: 12
+	Date: 2020-02-13 ; Times: 13
+	Date: 2020-02-12 ; Times: 10
+	Date: 2020-02-15 ; Times: 10
+	Date: 2020-02-14 ; Times: 7
+	Date: 2020-02-17 ; Times: 11
+	Date: 2020-02-16 ; Times: 4
+	Date: 2020-02-19 ; Times: 11
+	Date: 2020-02-18 ; Times: 15
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-25 ; Times: 7
+	Date: 2020-02-27 ; Times: 13
+	Date: 2020-02-06 ; Times: 46
+	Date: 2020-02-07 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia (java)" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "&#34;Felis catus&#34;" ; Times: 1
+	Query: "order:Perissodactyla country:&#34;Colombia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Otonyctomys Hatti" ; Times: 1
+	Query: "vntype:specimen genus:Tragulus order:Artiodactyla basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 2
+	Query: "order:Perissodactyla country:&#34;Malaysia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 23
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "otonyctomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "Hylochoerus" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia country:&#34;indonesia&#34; (java)" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 3
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 3
+	Query: "(dermoptera java)" ; Times: 5
+	Query: "xerus erythropus" ; Times: 3
+	Query: "specificepithet:gambianus genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "ovis ammon" ; Times: 1
+	Query: "bradypus &#34;tridactylus&#34;" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (java)" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Rodentia country:&#34;Colombia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Dermoptera variegatus)" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 3
+	Query: "(Panthera tigris)" ; Times: 4
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "cystophora" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "Mazama nemorivaga" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 5
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "7526" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "cremnomys" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 3
+	Query: "order:Rodentia country:&#34;Indonesia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 3
+	Query: "meles meles" ; Times: 2
+	Query: "&#34;acinonyx jubatus&#34;" ; Times: 1
+	Query: "order:Artiodactyla country:&#34;Malaysia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:psammomys country:&#34;tunisia&#34;" ; Times: 1
+	Query: "Hystrix cristata" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 2
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 13
+	Query: "specificepithet:pictus genus:lycaon" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 5
+	Query: "Leopardus pardalis" ; Times: 7
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:truncatus genus:chlamyphorus" ; Times: 1
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia" ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 3
+	Query: "country:Ecuador scientificname:Anoura geoffroyi " ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "ognevi" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 3
+	Query: "leopardus pardalis" ; Times: 7
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "order:Rodentia country:&#34;Malaysia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasalis larvatus" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "Ateles chamek mappable:1" ; Times: 2
+	Query: "&#34;hyaena hyaena&#34;" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "Bunomys" ; Times: 1
+	Query: "euphractus sexcinctus" ; Times: 2
+	Query: "order:dermoptera" ; Times: 2
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Java vntype:specimen order:dermoptera" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "dermoptera" ; Times: 42
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "&#34;Lama glama&#34;" ; Times: 1
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Saudi Arabia&#34; continent:Asia" ; Times: 1
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 17
+	Query: "genus:Manis" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "Java order:dermoptera" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "dermoptera java" ; Times: 2
+	Query: "genus:Histiotus institutioncode:MHNG" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 3
+	Query: "Dendrohyrax" ; Times: 3
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia country:&#34;indonesia&#34; (java)" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:pentadactyla" ; Times: 3
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 3
+	Query: "country:Ecuador scientificname:Cerdocyon thous " ; Times: 4
+	Query: "mustela putorius" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tobago&#34;" ; Times: 7
+	Query: "tremarctos &#34;ornatus&#34;" ; Times: 2
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "tylomys" ; Times: 1
+	Query: "Potamogale velox" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (java)" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "MHNG 1926.039" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "dermoptera (java)" ; Times: 2
+	Query: "&#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "putorius" ; Times: 1
+	Query: "genus:kerodon" ; Times: 2
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "Bradypus Variegatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "Alouatta seniculus mappable:1" ; Times: 2
+	Query: "genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "Lagothrix cana mappable:1" ; Times: 2
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "“Galeopterus” (Java )" ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 3
+	Query: "(tremarctos ornatus)" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "country:Ecuador scientificname:Odocoileus ustus " ; Times: 11
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "&#34;Manis gigantea&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "homo sapiens" ; Times: 6
+	Query: "specificepithet:foina genus:Martes" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Malaysia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 2
+	Query: "Martes foina" ; Times: 10
+	Query: "order:Chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 4
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 9
+	Query: "TREMARCTOS ORNATUS" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 22
+	Query: "martes foina" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "family:Nandiniidae order:Carnivora" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-7.218910198988056,109.97598345454969))&lt;187167" ; Times: 1
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 4
+	Query: "MICROCEBUS" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-7.218910198988056,109.97598345454969))&lt;128928.62102929098" ; Times: 1
+	Query: "order:chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "specificepithet:cirrhosus genus:Trachops country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "ichthyomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "(Dermoptera) distance(location,geopoint(-6.613984109858239,110.26718275666883))&lt;236063" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Cebus albifrons mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "order:Artiodactyla country:&#34;Indonesia&#34; institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 10
+	Query: "EG 054" ; Times: 1
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:MHNG" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera class:mammalia (java)" ; Times: 2
+	Query: "myotis oxyotus" ; Times: 6
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "&#34;Panthera pardus&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Vulpes zerda	 100" ; Times: 2
+	Query: "Dermoptera" ; Times: 31
+	Query: "genus:microcavia" ; Times: 1
+	Query: "(dermoptera) distance(location,geopoint(-7.360100409293891,109.16775436520334))&lt;366856" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 2
+	Query: "panthera tigris" ; Times: 3
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 5
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 5
+	Query: "order:chiroptera stateprovince:&#34;Tobago&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 2
+	Query: "Dasyprocta prymnolopha" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lionycteris spurrelli " ; Times: 2
+	Query: "Crocidura suaveolens" ; Times: 2
+	Query: "Erythrocebus" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 196 (out of 1023 download events in this period)
+Total number of records downloaded: 3538
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Romania ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 7
+	Country: United States ; Times: 152
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 22
+	Date: 2020-02-02 ; Times: 17
+	Date: 2020-02-03 ; Times: 33
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 18
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 18
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 17
+	Date: 2020-02-06 ; Times: 29
+	Date: 2020-02-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "TREMARCTOS ORNATUS" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "genus:Neacomys (Panama OR Colombia OR Venezuela)" ; Times: 1
+	Query: "Otonyctomys Hatti" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "order:chiroptera country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 17
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "&#34; tremarctos ornatus &#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "genus:myoprocta" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-6.613984109858239,110.26718275666883))&lt;236063" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 3
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "TREMARCTOS &#34;ORNATUS&#34;" ; Times: 1
+	Query: "(dermoptera java)" ; Times: 3
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:Galeopterus family:Cynocephalidae order:dermoptera country:&#34;indonesia&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "genus:kerodon" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "vntype:specimen genus:Galeopterus family:Cynocephalidae order:dermoptera (Java)" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 16
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "myotis oxyotus" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "(tremarctos ornatus)" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Kerodon rupestris" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Nasua narica" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Mazama nemorivaga" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 5
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "(dermoptera) distance(location,geopoint(-7.360100409293891,109.16775436520334))&lt;366856" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "vntype:specimen order:Primates family:galagidae" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 3
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 6
+	Query: "genus:galea" ; Times: 1
+
+
+End of report.
