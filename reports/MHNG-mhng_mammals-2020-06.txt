@@ -1,0 +1,183 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 3007
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 261
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Egypt ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 11
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 56
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 3
+	Date: 2020-06-18 ; Times: 7
+	Date: 2020-06-30 ; Times: 2
+	Date: 2020-06-15 ; Times: 6
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-17 ; Times: 26
+	Date: 2020-06-16 ; Times: 11
+	Date: 2020-06-11 ; Times: 21
+	Date: 2020-06-10 ; Times: 88
+	Date: 2020-06-13 ; Times: 2
+	Date: 2020-06-12 ; Times: 59
+	Date: 2020-06-08 ; Times: 18
+	Date: 2020-06-27 ; Times: 9
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-20 ; Times: 7
+	Date: 2020-06-21 ; Times: 3
+	Date: 2020-06-22 ; Times: 7
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 5
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-09 ; Times: 20
+	Date: 2020-06-28 ; Times: 13
+	Date: 2020-06-29 ; Times: 6
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:bunomys country:indonesia" ; Times: 2
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "genus:neofelis country:indonesia" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 14
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 4
+	Query: "martes flavigula" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Paraechinus" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus virginianus " ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Lagenorhynchus albirostris mappable:1" ; Times: 3
+	Query: "genus:mustela country:indonesia" ; Times: 2
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "Nasuella olivacea" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "hypsignathus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 36
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "mustela sumatra" ; Times: 2
+	Query: "arctonyx" ; Times: 3
+	Query: "genus:hylomys" ; Times: 13
+	Query: "arctonyx sumatra" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 1
+	Query: "bunomys fratrorum" ; Times: 1
+	Query: "genus:maxomys surifer" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 4
+	Query: "genus:paguma" ; Times: 1
+	Query: "bunomys" ; Times: 63
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 2
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 3
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "Redunca redunca" ; Times: 1
+	Query: "vntype:specimen genus:Mus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "hexaprotodon" ; Times: 1
+	Query: "genus:bunomys" ; Times: 12
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Pongo abelii" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 20
+	Query: "ailurus fulgens" ; Times: 10
+	Query: "country:Ecuador scientificname:Odocoileus ustus " ; Times: 2
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "genus:mus specificepithet:crociduroides" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "maxomys surifer" ; Times: 3
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 3
+	Query: "country:Ecuador scientificname:Cerdocyon thous " ; Times: 2
+	Query: "mustela asia" ; Times: 2
+	Query: "genus:mus specificepithet:caroli" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 1
+	Query: "genus:crocidura specificepithet:monticola" ; Times: 2
+	Query: "country:Ecuador scientificname:Lionycteris spurrelli " ; Times: 1
+	Query: "(erminea)" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "genus:maxomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Aotus lemurinus" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 6
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 474 download events in this period)
+Total number of records downloaded: 101
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 6
+	Country: Nepal ; Times: 2
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Nasuella olivacea" ; Times: 1
+	Query: "bunomys" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+
+
+End of report.
