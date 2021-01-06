@@ -1,0 +1,330 @@
+Report for Institution Code MHNG, Resource mhng_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 354
+Number of records retrieved in searches: 5851
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 4
+	Country: France ; Times: 13
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Saudi Arabia ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 13
+	Country: Turkey ; Times: 5
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 180
+	Country: Pakistan ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 85
+	Country: Mozambique ; Times: 7
+	Country: Colombia ; Times: 7
+	Country: Kenya ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-09 ; Times: 26
+	Date: 2020-12-08 ; Times: 26
+	Date: 2020-12-07 ; Times: 11
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-05 ; Times: 14
+	Date: 2020-12-04 ; Times: 70
+	Date: 2020-12-03 ; Times: 15
+	Date: 2020-12-02 ; Times: 27
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-25 ; Times: 2
+	Date: 2020-12-24 ; Times: 5
+	Date: 2020-12-26 ; Times: 4
+	Date: 2020-12-21 ; Times: 9
+	Date: 2020-12-20 ; Times: 20
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 12
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 6
+	Date: 2020-12-18 ; Times: 7
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 10
+	Date: 2020-12-11 ; Times: 22
+	Date: 2020-12-12 ; Times: 6
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 15
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 7
+	Date: 2020-12-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigricollis genus:Lepus" ; Times: 1
+	Query: "Ichthyomys" ; Times: 1
+	Query: "Pudu puda" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Crocidura lasiura" ; Times: 1
+	Query: "Apodemus mystacinus" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 9
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "scientificname:Funisciurus anerythrus" ; Times: 5
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 3
+	Query: "specificepithet:bennetti genus:Abrocoma" ; Times: 2
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Bos javanicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 1
+	Query: "3790" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "Plecotus teneriffae" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "specificepithet:myotis genus:Myotis order:Chiroptera" ; Times: 1
+	Query: "gazella soemmerringii" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "Microtus multiplex" ; Times: 1
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 2
+	Query: "Dama dama" ; Times: 7
+	Query: "Panthera onca" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "Crocidura orientalis" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus virginianus " ; Times: 1
+	Query: "soemmerringii" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "country:Ecuador scientificname:Cerdocyon thous " ; Times: 4
+	Query: "Petaurista" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "rhinosciurus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 3
+	Query: "Cabassous" ; Times: 2
+	Query: "Apodemus alpicola" ; Times: 1
+	Query: "6988" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera pardus" ; Times: 1
+	Query: "genus:Gerbillus class:Mammalia country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 1
+	Query: "Mus spicilegus" ; Times: 1
+	Query: "Phacochoerus" ; Times: 3
+	Query: "Panthera pardus pardus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 2
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 5
+	Query: "Ovis ammon" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 6
+	Query: "vntype:specimen specificepithet:soemmerringii genus:gazella family:bovidae continent:africa" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 5
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "genus:tragulus" ; Times: 1
+	Query: "Martes melampus" ; Times: 1
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura geoffroyi " ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Suncus megalura" ; Times: 1
+	Query: "genus:Protoxerus" ; Times: 2
+	Query: "Apodemus sylvaticus" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "Bradypus torquatus" ; Times: 1
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "Microtus lusitanicus" ; Times: 1
+	Query: "Felis margarita" ; Times: 28
+	Query: "mappable:1 scientificname:Diceros bicornis" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 4
+	Query: "country:Ecuador scientificname:Coendou quichua " ; Times: 3
+	Query: "Moschus moschiferus" ; Times: 2
+	Query: "Felis chaus" ; Times: 3
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "specificepithet:formosus genus:Myotis order:Chiroptera" ; Times: 1
+	Query: "mappable:1 scientificname:Lycaon pictus" ; Times: 1
+	Query: "Oreotragus" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "Oecomys auyantepui" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Nicaragua&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "Laephotis botswanae" ; Times: 1
+	Query: "Microtus savii" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "genus:Gerbillus country:&#34;Saudi Arabia&#34;" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Dryomys nitedula" ; Times: 2
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "ellobius" ; Times: 2
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "Crocidura fuliginosa" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Myotis ruber" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "genus:phascolosorex" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "mappable:1 scientificname:Ourebia ourebi" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Neusticomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 1
+	Query: "Pipistrellus ceylonicus" ; Times: 1
+	Query: "Myotis formosus" ; Times: 1
+	Query: "Microtus gerbei" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 7
+	Query: "Uranomys" ; Times: 1
+	Query: "Pipistrellus pipistrellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "neusticomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 2
+	Query: "Myotis daubentonii" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 4
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 3
+	Query: "Oreotragus oreotragus saltatrixoides" ; Times: 1
+	Query: "Apodemus uralensis" ; Times: 1
+	Query: "Pan paniscus" ; Times: 5
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+	Query: "Neacomys dubosti" ; Times: 2
+	Query: "cervus nippon" ; Times: 1
+	Query: "scientificname:Funisciurus congicus" ; Times: 4
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "Myotis brandtii" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "mappable:1 scientificname:Dasymys incomtus" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 4
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "Neoromicia somalicus" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 12
+	Query: "country:Ecuador scientificname:Lionycteris spurrelli " ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Cervus" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "connochaetes taurinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Peropteryx macrotis " ; Times: 2
+	Query: "Bos taurus" ; Times: 2
+	Query: "Pipistrellus coromandra" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 13
+	Query: "crocuta" ; Times: 1
+	Query: "Microtus duodecimcostatus" ; Times: 1
+	Query: "mappable:1 scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "cervus" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "soemmerringii vntype:specimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 2
+	Query: "Ephippiger ephippiger" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "Cervus nippon" ; Times: 2
+	Query: "class:Mammalia country:&#34;Saudi Arabia&#34; continent:asia" ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 1
+	Query: "Sciurus anomalus" ; Times: 3
+	Query: "Eliomys quercinus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "catalognumber:1978.076 institutioncode:MHNG" ; Times: 1
+	Query: "Myotis alcathoe" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "Oecomys rutilus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 705 download events in this period)
+Total number of records downloaded: 2040
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: Czechia ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Iran ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-09 ; Times: 3
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 8
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigricollis genus:Lepus" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:soemmerringii genus:gazella family:bovidae continent:africa" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:Gerbillus country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "genus:phascolosorex" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Oreotragus oreotragus saltatrixoides" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+
+
+End of report.
